@@ -1,7 +1,7 @@
 # Plan
 
 ## Week 1 Goal
-- 
+- 기초 작업실행
 
 ### Week 1 Tickets
 - [■] GitHub repo 생성 + 초기 커밋
@@ -11,7 +11,7 @@
 - [□] 이동 및 카메라 구현
 
 ## Week 2 Goal
-- 
+- 프로토타입 기본 틀 생성
 
 ### Week 2 Tickets
 - [□] player 이동 및 카메라 구현 
