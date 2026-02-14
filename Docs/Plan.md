@@ -18,6 +18,7 @@
 - [□] Main scene 생성
 - [□] player 공격 생성
 - [□] player 닉네임 설정(Main scene,인게임 머리위)
+- [□] 테스트
 
 ## Week 3 Goal
 
